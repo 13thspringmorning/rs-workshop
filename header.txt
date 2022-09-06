@@ -1,2 +1,4 @@
 Some text for header
-Changes from <main> - new change
+Changes from <main> 
+Changes from <first>
+Text from main: new change
